@@ -1,0 +1,158 @@
+.main{
+    height: 800px;
+    width: 600px;
+    background-color: white;
+    position: relative;
+    top: 50px;
+    left: 900px;
+}
+.ok{
+    height: 50px;
+    width: 5px;
+    position: relative;
+    background-color: rgb(124, 233, 255);
+    top: 255px;
+    right: 0px;
+    border-radius: 5px;
+}
+.change{
+    height: 50px;
+    width: 10px;
+    position: relative;
+    background-color: brown;
+}
+.one{
+    height: 499px;
+    width: 259px;
+    position: absolute;
+    background-color: rgb(124, 233, 255);
+    top: 95px;
+    right: 595px;
+    border-radius: 45px;
+}
+.two{
+    height: 490px;
+    width: 250px;
+    position: absolute;
+    background-color: black;
+    top: 98.5px;
+    right: 600px;
+    border-radius: 40px;
+}
+.three{
+    height: 470px;
+    width: 230px;
+    position: absolute;
+    top: 108px;
+    right: 610px;
+    background: linear-gradient(45deg, rgb(13, 9, 92) 10%, rgb(33, 33, 168) 35%, rgba(0,212,255) 65%, rgb(103, 205, 245) 100%);
+    border-radius: 35px;
+}
+.four{
+    height: 22px;
+    width: 85px;
+    position: absolute;
+    background-color: black;
+    top: 117px;
+    right: 680px;
+    border-radius: 35px;
+}
+.five{
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    top: 123px;
+    right: 690px;
+    background-color: rgb(3, 3, 99);
+    border-radius: 10px;
+}
+.six{
+    position: absolute;
+    height: 7px;
+    width: 7px;
+    top: 124.45px;
+    right: 691.9px;
+    background-color: rgb(15, 15, 77);
+    border-radius: 10px;
+}
+.seven{
+    position: absolute;
+    height: 1px;
+    width: 1px;
+    top: 125.45px;
+    right: 693.9px;
+    background-color: rgb(90, 108, 192);
+    border-radius: 5px;
+}
+.eight{
+    position: absolute;
+    height: 1px;
+    width: 1px;
+    top: 129.5px;
+    right: 693.6px;
+    background-color: rgb(90, 108, 192);
+    border-radius: 5px;  
+}.nine{
+    height: 50px;
+    width: 3px;
+    position: absolute;
+    background-color: rgb(124, 233, 255);
+    top: 255px;
+    right: 593px;
+    border-radius: 5px;
+}
+.ten{
+    height: 40px;
+    width: 3px;
+    position: absolute;
+    background-color: rgb(124, 233, 255);
+    top: 240px;
+    right: 854px;
+    border-radius: 5px;
+}
+.eleven{
+    height: 25px;
+    width: 3px;
+    position: absolute;
+    background-color: rgb(124, 233, 255);
+    top: 200px;
+    right: 854px;
+    border-radius: 5px; 
+}
+.twelve{
+    height: 40px;
+    width: 3px;
+    position: absolute;
+    background-color: rgb(124, 233, 255);
+    top: 295px;
+    right: 854px;
+    border-radius: 5px;
+}
+.thirteen{
+    height: 22px;
+    width: 90px;
+    position: absolute;
+    top: 140px;
+    right: 675px;
+    color: white;
+    text-align: center;
+}
+.fourteen{
+    height: 30px;
+    width: 90px;
+    position: absolute;
+    top: 150px;
+    right: 675px;
+    color: white;
+    text-align: center;
+    font-size: x-large;
+}
+.fifteen{
+    height: 6px;
+    width: 85px;
+    position: absolute;
+    top: 555px;
+    right: 683px;
+    background-color: rgba(255, 255, 255, 0.774);
+    border-radius: 30px;
+}

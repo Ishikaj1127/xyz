@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>phone</title>
+    <link rel="stylesheet" href="stylephone.css">
+</head>
+<body>
+<div class="main">
+    <div class="one"></div> 
+    <div class="two"></div>
+    
+    <div id="button"> 
+    <div class="three"></div> 
+    <div class="four"></div>
+    <div class="five"></div> 
+    <div class="six"></div>
+    <div class="seven"></div>
+    <div class="eight"></div>
+    <div class="nine"></div>
+    <div class="ten"></div>
+    <div class="eleven"></div>
+    <div class="twelve"></div>
+    <div class="thirteen">
+        <p>Mon, Mar 10</p>
+    </div>
+    <div class="fourteen">
+        <h1>1:30</h1>
+    </div>
+    <div class="fifteen"></div>
+    
+    <div class="ok" onclick="abc()"></div></div>
+    </div>
+    <div>
+    <div> 
+</div> 
+<script>
+    function abc(){
+        document.getElementById("button").innerHTML='<div id="button2"><div class="ok" onclick="xyz()"></div>';
+    }
+    function xyz(){
+        document.getElementById("button").innerHTML='<div class="three"></div><div class="four"></div><div class="five"></div><div class="six"></div><div class="seven"></div><div class="eight"></div><div class="nine"></div><div class="ten"></div> <div class="eleven"></div><div class="twelve"></div><div class="thirteen"><p>Mon, Mar 10<p> </div><div class="fourteen"><h1>1:30</h1></div><div class="fifteen"></div><div class="ok" onclick="abc()"></div></div>';
+    }
+</script>
+</body>
+</html>
